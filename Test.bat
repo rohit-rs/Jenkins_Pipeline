@@ -1,0 +1,1 @@
+echo "Test" : %date% : %time%

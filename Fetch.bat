@@ -1,0 +1,1 @@
+echo "Fetch code from GitHub" : %date% : %time%
